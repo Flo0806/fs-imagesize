@@ -1,6 +1,6 @@
 {
   "name": "fs-imagesize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Set images size with react-markdown",
   "main": "index.js",
   "scripts": {
